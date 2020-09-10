@@ -141,11 +141,11 @@ function saveClick() {
     for (let i=0; i<timeEntries.length; i++) {
         if (timeEntries[i].day == currentDate) {
             if (timeEntries[i].time == hourBlock) {
-                timeEntries[i].text = newEntry.text; // If entry already exists, just update text
+                timeEntries[i].text = newEntry.text; // if entry already exists, just update text
                 entryFound = true; // entry already exists
                 break;
             }
-            // entry does not exist - insert it when you reach the first hour that is greter
+            // entry does not exist - insert it when you reach the first hour that is greater
             else if (timeGreater(timeEntries[i].time, hourBlock)) {
                 newEntryIndex = i;
                 break;
