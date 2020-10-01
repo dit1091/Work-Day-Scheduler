@@ -4,3 +4,6 @@ This application is a simple daily calendar. It allows the user to view their wo
 The The calendar runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 View here: https://dit1091.github.io/Work-Day-Scheduler/index.html
+
+Preview:
+Screenshot1.png
