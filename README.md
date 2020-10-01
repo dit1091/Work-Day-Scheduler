@@ -5,5 +5,7 @@ The The calendar runs in the browser and feature dynamically updated HTML and CS
 
 View here: https://dit1091.github.io/Work-Day-Scheduler/index.html
 
-Preview:
-Screenshot1.png
+Previews:
+![Image of Screenshot1](https://github.com/dit1091/Work-Day-Scheduler/blob/master/Screenshot1.png?raw=true)
+
+![Image of Screenshot2](https://github.com/dit1091/Work-Day-Scheduler/blob/master/Screenshot2.png?raw=true)
